@@ -1,0 +1,42 @@
+make html file ✅
+understand bolier code ✅ ( starting ka code jo hota h voh predefined hota h 
+                           aur voh ata h html:5 isko likhne se in the starting )
+understand heading tags ✅ ( h1 to h6 )
+understand live  server ✅ ( right click on html file and click on open with live stream)
+understand paragraph tag ✅ ( p tag )  (in this we can use lorem woord to write random para content)
+understand line break tag ✅ ( br tag ) ( isko use karne se line break ho jata h )                         
+                                        (it does not need closing tag)
+undertsand comment in html ✅ ( <!-- comment --> ) ( isko use karne se voh line comment ho jata h ) ( it does not show on webpage )
+understand how to write content in html file ✅ ( we can write content in body tag ) ( content is written between opening and closing tag )
+understand how to add image✅( img tag )(isko use karne se image add kar sakte h)
+                        (img src="image url/path" alt="image description")
+                        (it does not need closing tag)( alt is used to describe the image in case it does not load )
+understand how to add link/hyperlink ✅( a tag)(a= anchor)(isko use karne se link add ho sakta h)
+            (a href="link url" target="blank"link text/a)(target="blank" is used to open the link in a new tab)
+            (it needs closing tag)(/a)(link text is the text that will be clickable)(href is used to specify the link url)  
+understan div tag ✅ ( div tag is used to group elements together and apply styles to them ) 
+                       ( it is a block-level element )
+                        ( it needs closing tag )   
+understand id attribute ✅ ( id is used to uniquely identify an element in the html file ) 
+                            (it is used for styling and scripting purposes )
+                             ( it should be unique in the html file ) 
+                             ( it is defined using id="id name" )   
+understand class attribute ✅ ( class is used to group elements together and apply styles to them )
+                                ( it is used for styling and scripting purposes )
+                                 ( it can be used multiple times in the html file ) 
+                                  ( it is defined using class="class name" )  
+understand span tag ✅ ( span tag is used to group inline elements together and apply styles to them )
+                        ( it is an inline element )
+                         ( it needs closing tag )                                                                                         
+            
+
+
+
+
+
+
+
+tell me how to this to github repository:
+To add your HTML file to a GitHub repository, follow these steps:
+1. Create a GitHub repository if you haven't already.
+2. Clone the repository to your local machine using Git.                         
