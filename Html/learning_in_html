@@ -15,6 +15,7 @@ understand how to add link/hyperlink ✅( a tag)(a= anchor)(isko use karne se li
             (a href="link url" target="blank"link text/a)(target="blank" is used to open the link in a new tab)
             (it needs closing tag)(/a)(link text is the text that will be clickable)(href is used to specify the link url)  
 understan div tag ✅ ( div tag is used to group elements together and apply styles to them ) 
+                       (its is used to make a conatiner for the elements)
                        ( it is a block-level element )
                         ( it needs closing tag )   
 understand id attribute ✅ ( id is used to uniquely identify an element in the html file ) 

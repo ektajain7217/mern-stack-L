@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width : 100%;
+}
+
+#main{ 
+    width: 50%;
+    height : 25%;
+    background-color: black;
+    text-color : white;
+}
+#main2{
+    height: 90px;
+    width: 160px;
+    margin: 20px 250px 70px 250px;
+    background-color: red;
+}
